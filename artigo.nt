@@ -1,0 +1,12 @@
+No formato NT é possível
+representar
+*textos com marcação negrito* e _itálico_.
+Também é possível separar parágrafos e criar listas. Aqui vai uma lista:
+
+- Isto é uma lista!
+- Este é o segundo elemento desta lista.
+- E este é o último elemento dela. _Há um pouco de itálico aqui_.
+este é um teste.
+
+Por exemplo, para produzir este parágrafo,
+a lista acima e o parágrafo acima dela, usa-se o seguinte texto em formato NT:
